@@ -1,0 +1,27 @@
+{
+	"quickAnswers": [{
+			"id": 1,
+			"name": "Good Morning"
+		},
+		{
+			"id": 2,
+			"name": "May I know your Existing ticket number"
+		},
+		{
+			"id": 3,
+			"name": "Hello, How can I help ?"
+		},
+		{
+			"id": 4,
+			"name": "Is this an existing issue ?"
+		},
+		{
+			"id": 5,
+			"name": "Thanks for reahcing out to us"
+		},
+		{
+			"id": 6,
+			"name": "Please wait for a moment while I fetch the info"
+		}
+	]
+}
