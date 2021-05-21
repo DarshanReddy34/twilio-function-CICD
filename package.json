@@ -5,8 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "twilio-run",
-    "deploy": "twilio-run deploy",
-    "remove": "twilio-run remove"
+    "deploy": "twilio-run deploy --service-name=quilo-serverless-functions",
+    "remove": "twilio-run remove --help"
   },
   "dependencies": {
     "fs": "0.0.1-security",

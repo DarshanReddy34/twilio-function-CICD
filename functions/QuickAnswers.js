@@ -12,7 +12,6 @@ exports.handler = TokenValidator(function(context, event, callback) {
     let data = fs.readFileSync(file);
     let quickanswersList = JSON.parse(data);
     response.setBody(quickanswersList);
-    console.log("quickanswers list:  ###", quickanswersList);
   
     callback(null, response);
 });
